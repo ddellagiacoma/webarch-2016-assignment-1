@@ -1,6 +1,6 @@
 # Extending the simple web server
 
-## 1. INTRUDUCTION
+## 1. INTRODUCTION
 
 The goal of this assignment is to extend a concurrent http mini-server. The extension aims to execute
 external processes and handle their responses. Moreover, this allows the external process to respond with
